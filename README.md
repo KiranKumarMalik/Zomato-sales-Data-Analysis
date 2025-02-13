@@ -3,7 +3,7 @@
 
 # Dashboard Link - https://app.fabric.microsoft.com/links/Fw6dljo_kN?ctid=c1c2a42b-112a-4acf-a491-34ba46ae14eb&pbi_source=linkShare&bookmarkGuid=4fbd5ef4-6d1c-49c0-9b7c-1db711d4d908
 
-![Zomato](https://github.com/user-attachments/assets/07f7673e-49fa-4132-9237-be55f5c60774)
+![Zomato](https://github.com/KiranKumarMalik/Zomato-sales-Data-Analysis/blob/5a6f628cb98724455bbb3c011881b33200985dce/Zomato.png)
 
 # Overview ;-
 Zomato Restaurant Data Analysis Project This project involved analyzing Zomato restaurant data using advanced Excel functions and SQL queries, and creating interactive dashboards using Power BI and Tableau. The objectives of the project were:
