@@ -16,4 +16,4 @@
 6. Create buckets based on Average Price of reasonable size and find out how many resturants falls in each buckets
 7.Percentage of Resturants based on "Has_Table_booking"
 8.Percentage of Resturants based on "Has_Online_delivery"
-9. Develop Charts based on Cusines, City, Ratings
+9. Develop Charts based on Cusines, city, Ratings
